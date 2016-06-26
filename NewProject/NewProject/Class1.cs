@@ -8,6 +8,6 @@ namespace NewProject
 {
     class Class1
     {
-        
+        //New comment
     }
 }
